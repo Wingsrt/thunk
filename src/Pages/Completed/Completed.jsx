@@ -117,7 +117,7 @@ export default function Completed() {
                               id1,
                             })
                           }
-                          style={{ marginRight: "10px" }}
+                          style={{ marginRight: "9px" }}
                           className={`${
                             status1
                               ? "ion-ios7-circle-filled"
